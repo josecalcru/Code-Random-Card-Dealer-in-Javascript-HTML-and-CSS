@@ -63,4 +63,5 @@ div[class*="suit"]:after {
   font-size: 35px;
   right: 5px;
   bottom: 5px;
+  transform: rotate(180deg);
 }
